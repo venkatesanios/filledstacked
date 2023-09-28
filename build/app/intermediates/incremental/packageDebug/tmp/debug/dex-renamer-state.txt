@@ -1,0 +1,4 @@
+#Tue Jun 27 22:12:29 IST 2023
+base.0=/Users/NSV/Downloads/student_attendance-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
